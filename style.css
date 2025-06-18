@@ -1,0 +1,27 @@
+
+  body {
+    font-family: sans-serif;
+    padding: 20px;
+    background-color :green;
+  }
+
+  input, button {
+    padding: 8px;
+    font-size: 22px;
+    background-color:coral;
+    color:#290505;
+  }
+
+  ul {
+    margin-top: 20px;
+  }
+
+  li {
+    padding: 6px;
+    background: #f0f0f0;
+    margin: 5px 0;
+    border-radius: 4px;
+    color:saddlebrown;
+    font-size : 25px;
+  }
+
