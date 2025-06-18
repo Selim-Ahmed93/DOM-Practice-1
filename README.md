@@ -3,7 +3,7 @@
 একটা ছোট, কিন্তু মজাদার   **Vanilla&nbsp;JavaScript DOM** প্রজেক্ট— যেখানে ইউজার ইনপুট ফিল্ডে ফলের নাম লিখে `Add Fruit` বাটন চাপলেই সেটি তাৎক্ষণিকভাবে নিচের তালিকায় যোগ হয়। এই রেপোতে আপনি খুব সহজে ব্রাউজার‑ভিত্তিক DOM manipulation শিখতে ও দেখাতে পারবেন।
 
 > **Demo:**  
-> ![App Demo](demo/demo.gif) <!-- স্ক্রিনশট/জিআইএফ এখানে বসান -->
+> ![App Demo](demo/demo.gif) https://selim-ahmed93.github.io/DOM-Practice-1/
 
 ---
 
